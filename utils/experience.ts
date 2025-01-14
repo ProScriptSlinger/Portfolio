@@ -9,10 +9,10 @@ export interface ExperienceItemType {
 
 export const experiences: ExperienceItemType[] = [
     {
-        companyName: "Ahau-x",
+        companyName: "Bone Group",
         position: "Leader & Senior Full Stack Developer",
         period: "10/2023 – Current",
-        location: 'Guatemala ,Guatemala',
+        location: 'Texas ,US',
         description: "I developed a CRM site using React and Express.js, focusing on user interface design with HTML5, Tailwind CSS, and Bootstrap. My experience includes implementing advanced object detection techniques for agricultural applications and ensuring code quality through Test Driven Development (TDD) with the NUnit Framework. I utilized Docker and Kubernetes for scalable cloud deployments and integrated SAML and JWT for secure user authentication. Additionally, I embraced DevOps practices with CI/CD pipelines through Jenkins and monitored application performance using Datadog and Splunk. My work also involved collaborating on agile projects with Jira and designing data models in Snowflake while implementing data pipelines and ETL workflows using Apache Airflow."
     },
     {

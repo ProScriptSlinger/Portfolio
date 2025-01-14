@@ -14,12 +14,12 @@ const Banner: React.FC<{}> = () => {
             height={150}
             width={150}
             className="rounded-full"
-            alt="Abel Tony"
+            alt="Joshua Lee Diaz"
           />
         </div>
 
         <div className="flex flex-col gap-6 mt-6 cursor-pointer animate-bounce tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
-          Abel Tony!
+          Joshua Lee Diaz!
         </div>
         <p className="text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
           I do Code &{" "}

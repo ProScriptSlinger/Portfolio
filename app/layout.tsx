@@ -8,11 +8,11 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://abeltony.vercel.app/"),
-  title: "Abel Tony",
-  description: "Developer Portfolio By Abel Tony",
-  keywords: ["Developer", "Portfolio", "Developer Portflio", "Abel Tony"],
+  title: "Joshua Lee Diaz",
+  description: "Developer Portfolio By Joshua Lee Diaz",
+  keywords: ["Developer", "Portfolio", "Developer Portflio", "Joshua Lee Diaz"],
   openGraph: {
-    title: "Abel Tony",
+    title: "Joshua Lee Diaz",
     description: "Software Engineer",
     images: "/OpenGraph.png",
   },
